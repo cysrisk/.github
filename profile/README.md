@@ -1,12 +1,24 @@
-# Cysrisk
 
-<!--
+# 🛡️ CysRisk  
+*Cybersecurity + Risk. Built for Resilience.*
 
-**Here are some ideas to get you started:**
+**CysRisk** is a next-generation cybersecurity platform for proactive threat detection, regulatory compliance, and digital trust—tailored especially for underrepresented and small-to-medium-sized enterprises (SMEs).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**CysRisk** is an early-stage cybersecurity and truth-tech startup building AI-powered, open-source tools to help SMEs combat modern threats and misinformation—fairly, intelligently, and at scale.
+
+---
+
+### 🔍 What We Do
+- 📊 **Live Threat Metrics** – Real-time visibility into cyber threats targeting your digital infrastructure  
+- ⚠️ **Attack Vector Risk Analysis** – Deep insights into phishing, impersonation, and manipulation attempts  
+- ✅ **Compliance Monitoring** – Track and verify compliance with GDPR, CCPA, NIS2, and more  
+- 🌍 **Community Misinformation Alerts** – Counter digital deception and profile manipulation affecting communities and businesses
+
+---
+
+### 🎯 Our Mission  
+To democratize cybersecurity and empower digital resilience—because every entity deserves a secure and trusted digital presence.
+
+---
+
+🌐 Website: [https://cysrisk.com](https://cysrisk.com)   
